@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Wenxin(Nicole) Tian"
   avatar           : "profile.png"
-  bio              : "Nicole, Umich Junior CS student."
+  bio              : "Nicole, Umich Junior B.A. Computer Science student."
   location         : "Ann Arbor, Michigan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "wenxintian10@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/NicoleeeTian"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/wenxintian/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
