@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wenxin(Nicole) Tian"
   avatar           : "profile.png"
-  bio              : "Nicole, Umich Junior B.A. Computer Science student."
+  bio              : "Nicole, Umich Junior B.S. Computer Science student."
   location         : "Ann Arbor, Michigan"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "wenxintian"
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

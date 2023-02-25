@@ -8,4 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is Wenxin(Nicole Nicode) Tian. 
+
+## About Me
+
+I am a third-year B.S. student at Computer Science Department, University of Michigan Ann Arbor.I am broadly interested in xxxx.
+
+
+## Projects
+
+
