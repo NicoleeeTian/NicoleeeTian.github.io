@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-
 ## About Me
-I am a junior B.S. student at Computer Science Department, University of Michigan Ann Arbor. I am broadly interested in HCI.
+I am a junior B.S. student at Computer Science Department, University of Michigan Ann Arbor. I am broadly interested in HCI and Web Development.
 
 ## Education
 ### University of Michigan, Ann Arbor 
-High-level Courses Taken include:
-<span style="color:pink"> •	 Operation System (C++) <br> <\span>
+High-level Courses Taken include: <br>
+<span style="color:#E75480"> 
+•	 Operation System (C++) <br>
 •	 Computer Architecture (assembly,C) <br>
 •	 Web System (Python) <br>
 •	 Database Management System (SQL, MongoDB) <br>
@@ -43,4 +43,5 @@ High-level Courses Taken include:
 •	Extracted the Facebook database to NoSQL for greater schema flexibility and translated **SQL** queries into **MongoDB**. <br>
 
 ## Skills
-### Programing Languages: C++,C, Python,Java, HTML, SQL, R
+### Programing Languages: 
+C++,C, Python,Java, HTML, SQL, R
