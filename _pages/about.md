@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-I am a junior B.S. student at Computer Science Department, University of Michigan Ann Arbor. I am broadly interested in HCI and Web Development.
+I am a senior B.S. student at Computer Science Department, University of Michigan Ann Arbor. I am broadly interested in Web Development and looking forward SDE internship opportunities.
 
 ## Education
 ### University of Michigan, Ann Arbor 
@@ -20,8 +20,11 @@ High-level Courses Taken include: <br>
 •	 Web System (Python) <br>
 •	 Database Management System (SQL, MongoDB) <br>
 •	 Computer Vision (Python) <br>
-•	 Algorithm (Python) <br>
+•	 Data Structure and Algorithm (C++) <br>
+•	 UI/UX Design (HTML, JavaScript, Figma) <br>
 •	 Linear Algebra <br>
+
+## Internship Experience
 
 
 ## Projects
