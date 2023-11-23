@@ -13,16 +13,12 @@ Hello! I'm a senior pursuing my B.S. in Computer Science at the University of Mi
 
 ## Internship Experience
 ### JD.com, Inc.
-Software Engineer Intern (IaaS Storage Team) May. 2023 - Aug. 2023
-• Developed license services by customizing and bundling reusable components in Vue.js, serving 3,000 internal users
-
-• Enhanced the cloud storage service by scaling up the existing storage service UI written in JavaScript to accommodate future usage with more table contents and display options
-
-• Investigated a page rendering slowness issue, collaborated with the team to purpose and implement an optimized solution using Django and Swagger to bulk retrieve metadata of hard drives based on hardware category instead of individual retrieval, reducing the number of API calls from 300 to 10 times
-
-• Created interactive design specifications for the cloud disk service in AXure, fostering team cohesion, ensuring design consistency, and facilitating efficient design iteration
-
-• Released the cloud storage service to production platform to boost the progress of company-wise cloud storage project
+Software Engineer Intern (IaaS Storage Team) May. 2023 - Aug. 2023 
+- Developed license services by customizing and bundling reusable components in Vue.js, serving 3,000 internal users
+- Enhanced the cloud storage service by scaling up the existing storage service UI written in JavaScript to accommodate future usage with more table contents and display options
+- Investigated a page rendering slowness issue, collaborated with the team to purpose and implement an optimized solution using Django and Swagger to bulk retrieve metadata of hard drives based on hardware category instead of individual retrieval, reducing the number of API calls from 300 to 10 times
+- Created interactive design specifications for the cloud disk service in AXure, fostering team cohesion, ensuring design consistency, and facilitating efficient design iteration
+- Released the cloud storage service to production platform to boost the progress of company-wise cloud storage project
 
 ### GS Capital
 Software Engineer Intern May. 2021 - Aug. 2021
