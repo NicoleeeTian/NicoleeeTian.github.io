@@ -11,6 +11,27 @@ redirect_from:
 ## About Me
 Hello! I'm a senior pursuing my B.S. in Computer Science at the University of Michigan, Ann Arbor, with a keen focus on Web Development. Actively seeking SDE internship opportunities, I offer strong programming skills in C++ and Python, combined with a talent for analytical thinking and a fervor for tackling complex problems. My varied experiences in projects and internships have equipped me with the skills and knowledge necessary to make a meaningful impact on your team. Please don't hesitate to contact me at wenxintian10@gmail.com for any potential roles or collaborations.
 
+## Projects
+### OrderEase [Python, Django, PostgreSQL]
+-	Build an online platform that facilitates food ordering experience using Django with PostgreSQL as the database
+-	Incorporated functionalities that enable customers to search for restaurants by location and keywords, add items to carts, and complete payments by implementing PayPal and RazorPay Payment gateways
+-	Provided features to vendors to manage operations and publish menus to marketplaces, thereby increasing visibility
+
+### Digital Connect Hub [Jinja, Flask, React, SQLite,  MapReduce, AWS]
+-	Build a social media platform using Jinja templates, React and Flask frameworks, and SQLite for database storage
+-	Implemented REST APIs for handling AJAX calls from client-side, resulting in a 75% increase in page load times
+-	Deployed the web application on AWS EC2 instance, enabling features such as posting, comment, and following
+-	Designed Map and Reduce scripts sets for the pipeline to calculate the tf-idf inverted index and generate recommendations via PageRank Algorithm; indexed more than 100,000 article pages within 30s
+
+### Operating System Kernel Implementation [C++, Multithreading]
+- Developed a C++ multithreading library incorporating threads, mutexes, and conditional variables
+- Implemented a virtual memory manager for the OS kernel with copy-on-write and eager swap reservation feature
+
+### Facebook Database Design [MySql, MongoDB]
+- Designed a relational database schema for social media with friend suggestions and event discoveries service
+- Translated SQL queries to MongoDB to extract a Facebook database, enhancing schema flexibility and adaptability
+- Designed an optimized approach for joining friends tables, resulting in a 30% improvement in efficiency
+
 ## Internship Experience
 ### JD.com, Inc.
 Software Engineer Intern (IaaS Storage Team) May. 2023 - Aug. 2023 
@@ -22,41 +43,9 @@ Software Engineer Intern (IaaS Storage Team) May. 2023 - Aug. 2023
 
 ### GS Capital
 Software Engineer Intern May. 2021 - Aug. 2021
-• Designed and implemented a search engine of annual reports statistics using Django framework and PostgreSQL data storage for 500+ internal employees
-
-• Enhanced working efficiency by automating existing manual workflows and providing user-friendly interfaces, dropping the average search time from 30 seconds to 3 seconds
-
-• Improved test coverage from 50% to 90% and increased search accuracy from 90% to 96% by unit and integration tests
-
-
-## Projects
-### OrderEase [Python, Django, PostgreSQL]
-•	Build an online platform that facilitates food ordering experience using Django with PostgreSQL as the database
-
-•	Incorporated functionalities that enable customers to search for restaurants by location and keywords, add items to carts, and complete payments by implementing PayPal and RazorPay Payment gateways
-
-•	Provided features to vendors to manage operations and publish menus to marketplaces, thereby increasing visibility
-
-### Digital Connect Hub [Jinja, Flask, React, SQLite,  MapReduce, AWS]
-•	Build a social media platform using Jinja templates, React and Flask frameworks, and SQLite for database storage
-
-•	Implemented REST APIs for handling AJAX calls from client-side, resulting in a 75% increase in page load times
-
-•	Deployed the web application on AWS EC2 instance, enabling features such as posting, comment, and following
-
-•	Designed Map and Reduce scripts sets for the pipeline to calculate the tf-idf inverted index and generate recommendations via PageRank Algorithm; indexed more than 100,000 article pages within 30s
-
-### Operating System Kernel Implementation [C++, Multithreading]
-• Developed a C++ multithreading library incorporating threads, mutexes, and conditional variables
-
-• Implemented a virtual memory manager for the OS kernel with copy-on-write and eager swap reservation feature
-
-### Facebook Database Design [MySql, MongoDB]
-•  Designed a relational database schema for social media with friend suggestions and event discoveries service
-
-•  Translated SQL queries to MongoDB to extract a Facebook database, enhancing schema flexibility and adaptability
-
-•  Designed an optimized approach for joining friends tables, resulting in a 30% improvement in efficiency
+- Designed and implemented a search engine of annual reports statistics using Django framework and PostgreSQL data storage for 500+ internal employees
+- Enhanced working efficiency by automating existing manual workflows and providing user-friendly interfaces, dropping the average search time from 30 seconds to 3 seconds
+- Improved test coverage from 50% to 90% and increased search accuracy from 90% to 96% by unit and integration tests
 
 ## Education
 ### University of Michigan, Ann Arbor 
@@ -73,8 +62,8 @@ High-level Courses Taken include: <br>
 
 ## Skills
 ### Programming Languages: 
-Python, C++/C, Java, JavaScript/HTML/CSS, Bash, R
+- Python, C++/C, Java, JavaScript/HTML/CSS, Bash, R
 ### Frameworks: 
-Flask, Django, REST APIs, React, Vue.js, Node.js, Spring Boot
+- Flask, Django, REST APIs, React, Vue.js, Node.js, Spring Boot
 ### Tools: 
-SQLite, PostgreSQL, MongoDB, Hadoop, AWS, Git, Linux
+- SQLite, PostgreSQL, MongoDB, Hadoop, AWS, Git, Linux
