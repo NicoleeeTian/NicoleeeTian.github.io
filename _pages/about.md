@@ -12,19 +12,17 @@ redirect_from:
 Hello! I'm a senior pursuing my B.S. in Computer Science at the University of Michigan, Ann Arbor, with a keen focus on Web Development. Actively seeking SDE internship opportunities, I offer strong programming skills in C++ and Python, combined with a talent for analytical thinking and a fervor for tackling complex problems. My varied experiences in projects and internships have equipped me with the skills and knowledge necessary to make a meaningful impact on your team. Please don't hesitate to contact me at wenxintian10@gmail.com for any potential roles or collaborations.
 
 ## Projects
-### OrderEase
+### OrderEase **[GitHub Repo](https://github.com/NicoleeeTian/OrderEase)**
 [![OrderEase](images/orderease.png)](https://github.com/NicoleeeTian/OrderEase)
-**[Explore the GitHub Repository](https://github.com/NicoleeeTian/OrderEase)**
-**Overview:**
 - Built an online food ordering platform using **Django** and **PostgreSQL**, streamlining the user experience in digital food services.
 - Integrated advanced search functionalities allowing customers to find restaurants by location and keywords, manage their shopping carts, and securely complete payments using PayPal and RazorPay.
 - Empowered vendors with robust features for operational management and menu publishing, enhancing their market presence and customer outreach.
 
-### StockSage AI [Github Repo](https://github.com/NicoleeeTian/StockSage)
-![StockSage Project Image](images/stock.png)
+### StockSage AI **[Github Repo](https://github.com/NicoleeeTian/StockSage)**
+![StockSageAI Image](images/stock.png)(https://github.com/NicoleeeTian/StockSage)
 - Developed an advanced platform featuring an AI agent for the stock market, offering real-time analysis to facilitate informed investment decisions
-- Implemented Google's Vertex AI for embedding stock news, storing the data in MongoDB; utilized Atlas Search's vector search feature for efficient and accurate semantic searching of embedded data
-- Utilized streamlit for chat-box interface, enhancing user experience with comprehensive data visualization in graph and form formats
+- Implemented Google's **Vertex AI** for embedding stock news, storing the data in MongoDB; utilized **Atlas Search** for efficient and accurate semantic searching of embedded data
+- Utilized **Streamlit** for chat-box interface, enhancing user experience with comprehensive data visualization in graph and form formats
 
 ### Digital Connect Hub
 -	Build a social media platform using **Jinja** templates, React and Flask frameworks, and SQLite for database storage
