@@ -12,11 +12,17 @@ redirect_from:
 Hello! I'm a senior pursuing my B.S. in Computer Science at the University of Michigan, Ann Arbor, with a keen focus on Web Development. Actively seeking SDE internship opportunities, I offer strong programming skills in C++ and Python, combined with a talent for analytical thinking and a fervor for tackling complex problems. My varied experiences in projects and internships have equipped me with the skills and knowledge necessary to make a meaningful impact on your team. Please don't hesitate to contact me at wenxintian10@gmail.com for any potential roles or collaborations.
 
 ## Projects
-### OrderEase [GitHub - https://github.com/NicoleeeTian/OrderEase](https://github.com/NicoleeeTian/OrderEase)
+### OrderEase [GitHub Repo](https://github.com/NicoleeeTian/OrderEase)
 ![OrderEase Project Image](images/orderease.png)
--	Build an online platform that facilitates food ordering experience using Django with PostgreSQL as the database
+-	Build an online platform that facilitates food ordering experience using **Django** with **PostgreSQL** as the database
 -	Incorporated functionalities that enable customers to search for restaurants by location and keywords, add items to carts, and complete payments by implementing PayPal and RazorPay Payment gateways
 -	Provided features to vendors to manage operations and publish menus to marketplaces, thereby increasing visibility
+
+### StockSage AI [Github Repo](https://github.com/NicoleeeTian/StockSage)
+![StockSage Project Image](images/stock.png)
+- Developed an advanced platform featuring an AI agent for the stock market, offering real-time analysis to facilitate informed investment decisions
+- Implemented Google's Vertex AI for embedding stock news, storing the data in MongoDB; utilized Atlas Search's vector search feature for efficient and accurate semantic searching of embedded data
+- Utilized streamlit for chat-box interface, enhancing user experience with comprehensive data visualization in graph and form formats
 
 ### Digital Connect Hub
 -	Build a social media platform using **Jinja** templates, React and Flask frameworks, and SQLite for database storage
@@ -24,13 +30,13 @@ Hello! I'm a senior pursuing my B.S. in Computer Science at the University of Mi
 -	Deployed the web application on **AWS EC2** instance, enabling features such as posting, comment, and following
 -	Designed Map and Reduce scripts sets for the pipeline to calculate the tf-idf inverted index and generate recommendations via PageRank Algorithm; indexed more than 100,000 article pages within 30s
 
-### Operating System Kernel Implementation [C++, Multithreading]
-- Developed a C++ multithreading library incorporating threads, mutexes, and conditional variables
+### Operating System Kernel Implementation
+- Developed a **C++ multithreading** library incorporating threads, mutexes, and conditional variables
 - Implemented a virtual memory manager for the OS kernel with copy-on-write and eager swap reservation feature
 
-### Facebook Database Design [MySql, MongoDB]
+### Facebook Database Design
 - Designed a relational database schema for social media with friend suggestions and event discoveries service
-- Translated SQL queries to MongoDB to extract a Facebook database, enhancing schema flexibility and adaptability
+- Translated **SQL** queries to **MongoDB** to extract a Facebook database, enhancing schema flexibility and adaptability
 - Designed an optimized approach for joining friends tables, resulting in a 30% improvement in efficiency
 
 ## Internship Experience
@@ -62,6 +68,6 @@ High-level Courses Taken include: <br>
 •	 Computer Vision (Python) <br>
 
 ## Skills
-### Programming Languages: Python, C++/C, Java, JavaScript/HTML/CSS, Bash, R
-### Frameworks: Flask, Django, REST APIs, React, Vue.js, Node.js, Spring Boot
-### Tools: SQLite, PostgreSQL, MongoDB, Hadoop, AWS, Git, Linux
+**Programming Languages:** Python, C++/C, Java, JavaScript/HTML/CSS, Bash, R <br>
+**Frameworks:** Flask, Django, REST APIs, React, Vue.js, Node.js, Spring Boot <br>
+**Tools:** SQLite, PostgreSQL, MongoDB, Hadoop, AWS, Git, Linux <br>
