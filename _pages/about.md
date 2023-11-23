@@ -12,11 +12,13 @@ redirect_from:
 Hello! I'm a senior pursuing my B.S. in Computer Science at the University of Michigan, Ann Arbor, with a keen focus on Web Development. Actively seeking SDE internship opportunities, I offer strong programming skills in C++ and Python, combined with a talent for analytical thinking and a fervor for tackling complex problems. My varied experiences in projects and internships have equipped me with the skills and knowledge necessary to make a meaningful impact on your team. Please don't hesitate to contact me at wenxintian10@gmail.com for any potential roles or collaborations.
 
 ## Projects
-### OrderEase [GitHub Repo](https://github.com/NicoleeeTian/OrderEase)
-![OrderEase Project Image](images/orderease.png)
--	Build an online platform that facilitates food ordering experience using **Django** with **PostgreSQL** as the database
--	Incorporated functionalities that enable customers to search for restaurants by location and keywords, add items to carts, and complete payments by implementing PayPal and RazorPay Payment gateways
--	Provided features to vendors to manage operations and publish menus to marketplaces, thereby increasing visibility
+### OrderEase
+[![OrderEase](images/orderease.png)](https://github.com/NicoleeeTian/OrderEase)
+**[Explore the GitHub Repository](https://github.com/NicoleeeTian/OrderEase)**
+**Overview:**
+- Built an online food ordering platform using **Django** and **PostgreSQL**, streamlining the user experience in digital food services.
+- Integrated advanced search functionalities allowing customers to find restaurants by location and keywords, manage their shopping carts, and securely complete payments using PayPal and RazorPay.
+- Empowered vendors with robust features for operational management and menu publishing, enhancing their market presence and customer outreach.
 
 ### StockSage AI [Github Repo](https://github.com/NicoleeeTian/StockSage)
 ![StockSage Project Image](images/stock.png)
