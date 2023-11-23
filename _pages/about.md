@@ -19,7 +19,7 @@ Hello! I'm a senior pursuing my B.S. in Computer Science at the University of Mi
 - Empowered vendors with robust features for operational management and menu publishing, enhancing their market presence and customer outreach.
 
 ### StockSage AI **[Github Repo](https://github.com/NicoleeeTian/StockSage)**
-![StockSageAI Image](images/stock.png)(https://github.com/NicoleeeTian/StockSage)
+![StockSageAI Image(images/stock.png)](https://github.com/NicoleeeTian/StockSage)
 - Developed an advanced platform featuring an AI agent for the stock market, offering real-time analysis to facilitate informed investment decisions
 - Implemented Google's **Vertex AI** for embedding stock news, storing the data in MongoDB; utilized **Atlas Search** for efficient and accurate semantic searching of embedded data
 - Utilized **Streamlit** for chat-box interface, enhancing user experience with comprehensive data visualization in graph and form formats
@@ -41,22 +41,21 @@ Hello! I'm a senior pursuing my B.S. in Computer Science at the University of Mi
 
 ## Internship Experience
 ### JD.com, Inc.
-Software Engineer Intern (IaaS Storage Team) May. 2023 - Aug. 2023 
-- Developed license services by customizing and bundling reusable components in Vue.js, serving 3,000 internal users
-- Enhanced the cloud storage service by scaling up the existing storage service UI written in JavaScript to accommodate future usage with more table contents and display options
-- Investigated a page rendering slowness issue, collaborated with the team to purpose and implement an optimized solution using Django and Swagger to bulk retrieve metadata of hard drives based on hardware category instead of individual retrieval, reducing the number of API calls from 300 to 10 times
-- Created interactive design specifications for the cloud disk service in AXure, fostering team cohesion, ensuring design consistency, and facilitating efficient design iteration
+Software Engineer Intern
+- Developed license services by customizing and bundling reusable components in **Vue.js**, serving 3,000 internal users
+- Enhanced the cloud storage service by scaling up the existing storage service UI written in **JavaScript** to accommodate future usage with more table contents and display options
+- Investigated a page rendering slowness issue, collaborated with the team to purpose and implement an optimized solution using **Django** and **Swagger** to bulk retrieve metadata of hard drives based on hardware category instead of individual retrieval, reducing the number of API calls from 300 to 10 times
+- Created interactive design specifications for the cloud disk service in **AXure**, fostering team cohesion, ensuring design consistency, and facilitating efficient design iteration
 - Released the cloud storage service to production platform to boost the progress of company-wise cloud storage project
 
 ### GS Capital
-Software Engineer Intern May. 2021 - Aug. 2021
-- Designed and implemented a search engine of annual reports statistics using Django framework and PostgreSQL data storage for 500+ internal employees
+Software Engineer Intern
+- Designed and implemented a search engine of annual reports statistics using **Django** framework and PostgreSQL data storage for 500+ internal employees
 - Enhanced working efficiency by automating existing manual workflows and providing user-friendly interfaces, dropping the average search time from 30 seconds to 3 seconds
 - Improved test coverage from 50% to 90% and increased search accuracy from 90% to 96% by unit and integration tests
 
 ## Education
 ### University of Michigan, Ann Arbor 
-High-level Courses Taken include: <br>
 •	 Operation System (C++) <br>
 •	 Web System (Python) <br>
 •	 Database Management System (MySQL, MongoDB) <br>
