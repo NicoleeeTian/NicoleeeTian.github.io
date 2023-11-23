@@ -12,17 +12,16 @@ redirect_from:
 Hello! I'm a senior pursuing my B.S. in Computer Science at the University of Michigan, Ann Arbor, with a keen focus on Web Development. Actively seeking SDE internship opportunities, I offer strong programming skills in C++ and Python, combined with a talent for analytical thinking and a fervor for tackling complex problems. My varied experiences in projects and internships have equipped me with the skills and knowledge necessary to make a meaningful impact on your team. Please don't hesitate to contact me at wenxintian10@gmail.com for any potential roles or collaborations.
 
 ## Projects
-### OrderEase [Python, Django, PostgreSQL]
-[GitHub - https://github.com/NicoleeeTian/OrderEase](https://github.com/NicoleeeTian/OrderEase)
-![OrderEase Project Image](/Users/wenxintian/Desktop/Resume/NicoleeeTian.github.io/images/orderease.png)
+### OrderEase [GitHub - https://github.com/NicoleeeTian/OrderEase](https://github.com/NicoleeeTian/OrderEase)
+![OrderEase Project Image](images/orderease.png)
 -	Build an online platform that facilitates food ordering experience using Django with PostgreSQL as the database
 -	Incorporated functionalities that enable customers to search for restaurants by location and keywords, add items to carts, and complete payments by implementing PayPal and RazorPay Payment gateways
 -	Provided features to vendors to manage operations and publish menus to marketplaces, thereby increasing visibility
 
-### Digital Connect Hub [Jinja, Flask, React, SQLite,  MapReduce, AWS]
--	Build a social media platform using Jinja templates, React and Flask frameworks, and SQLite for database storage
--	Implemented REST APIs for handling AJAX calls from client-side, resulting in a 75% increase in page load times
--	Deployed the web application on AWS EC2 instance, enabling features such as posting, comment, and following
+### Digital Connect Hub
+-	Build a social media platform using **Jinja** templates, React and Flask frameworks, and SQLite for database storage
+-	Implemented **REST APIs** for handling AJAX calls from client-side, resulting in a 75% increase in page load times
+-	Deployed the web application on **AWS EC2** instance, enabling features such as posting, comment, and following
 -	Designed Map and Reduce scripts sets for the pipeline to calculate the tf-idf inverted index and generate recommendations via PageRank Algorithm; indexed more than 100,000 article pages within 30s
 
 ### Operating System Kernel Implementation [C++, Multithreading]
