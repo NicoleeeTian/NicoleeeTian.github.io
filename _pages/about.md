@@ -13,6 +13,7 @@ Hello! I'm a senior pursuing my B.S. in Computer Science at the University of Mi
 
 ## Projects
 ### OrderEase [Python, Django, PostgreSQL]
+[GitHub - https://github.com/NicoleeeTian/OrderEase](https://github.com/NicoleeeTian/OrderEase)
 ![OrderEase Project Image](/Users/wenxintian/Desktop/Resume/NicoleeeTian.github.io/images/orderease.png)
 -	Build an online platform that facilitates food ordering experience using Django with PostgreSQL as the database
 -	Incorporated functionalities that enable customers to search for restaurants by location and keywords, add items to carts, and complete payments by implementing PayPal and RazorPay Payment gateways
