@@ -13,6 +13,7 @@ Hello! I'm a senior pursuing my B.S. in Computer Science at the University of Mi
 
 ## Projects
 ### OrderEase [Python, Django, PostgreSQL]
+![OrderEase Project Image](/Users/wenxintian/Desktop/Resume/NicoleeeTian.github.io/images/orderease.png)
 -	Build an online platform that facilitates food ordering experience using Django with PostgreSQL as the database
 -	Incorporated functionalities that enable customers to search for restaurants by location and keywords, add items to carts, and complete payments by implementing PayPal and RazorPay Payment gateways
 -	Provided features to vendors to manage operations and publish menus to marketplaces, thereby increasing visibility
@@ -61,9 +62,6 @@ High-level Courses Taken include: <br>
 •	 Computer Vision (Python) <br>
 
 ## Skills
-### Programming Languages: 
-- Python, C++/C, Java, JavaScript/HTML/CSS, Bash, R
-### Frameworks: 
-- Flask, Django, REST APIs, React, Vue.js, Node.js, Spring Boot
-### Tools: 
-- SQLite, PostgreSQL, MongoDB, Hadoop, AWS, Git, Linux
+### Programming Languages: Python, C++/C, Java, JavaScript/HTML/CSS, Bash, R
+### Frameworks: Flask, Django, REST APIs, React, Vue.js, Node.js, Spring Boot
+### Tools: SQLite, PostgreSQL, MongoDB, Hadoop, AWS, Git, Linux
